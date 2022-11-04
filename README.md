@@ -5,7 +5,6 @@
 - 📫 How to reach me ...
 [![@vrvishwugjare's Holopin board](https://holopin.me/vrvishwugjare)](https://holopin.io/@vrvishwugjare)
 
-https://github.com/users/vishwjeet-ujgare/achievements/quickdraw
 <!---
 vishwjeet-ujgare/vishwjeet-ujgare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
